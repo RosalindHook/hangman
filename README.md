@@ -22,6 +22,7 @@ Advanced: User can provide a single letter or if the input is greater than 1 len
 ***Usage:***
 - Please feel free to send pull requests and make changes - this project is open for contributions to anyone on the CFG degree who would like to practice using Github and practice their Python in a safe space.
 - There are some 'TODO' options in the main hangman.py file - anyone is welcome to give these a try.
-- It is initially set up as a basic hangman game with a game loop - but would like to customise this to include all the options above (e.g. basic/advanced options, and setting player lives depending on difficulty level)
-- Also please do suggest any other changes you might like to do - could be adding some ASCII art, extending the csv file list of autumn words, adding a front end (absolutely NO IDEA how to do this with Python but would love to learn... GUI anyone?
-- Or absolutely anything else! Do feel free to experiment away...
+- It is initially set up as a basic hangman game with a game loop, i.e. essentially the 'basic' option outlined above.
+- But it would be great to customise this to include all the options above (e.g. basic/advanced options, and setting player lives depending on difficulty level)
+- Also please do suggest any other changes you might like to do - could be adding some ASCII art, extending the csv file list of autumn words, adding a front end (absolutely NO IDEA how to do this with Python but would love to learn... GUI anyone?)
+- Or absolutely anything else! Do feel free to experiment away... even tiny changes or comments are all welcome.
