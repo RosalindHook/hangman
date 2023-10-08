@@ -1,5 +1,9 @@
 import random
+import title_art
 import hangman_art  #TODO may need some different versions of ASCII art depending on difficulty level
+
+# prints title
+print(title_art.title)
 
 # retrieves word list from csv file
 with open('hangman.csv', 'r') as csv_file:
